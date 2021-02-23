@@ -313,3 +313,5 @@ sudo docker run -v "$(pwd)":/src gl_imagebuilder -p mifi -e openssh-sftp-server 
 You'll find the compiled firmware image in *bin/gl-mifi/openwrt-mifi-ar71xx-generic-gl-mifi-squashfs-sysupgrade.bin*
 
 For other firmwares, the compiled firmware file is in **bin/<device_name>/**
+
+TEST
